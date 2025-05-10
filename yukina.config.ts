@@ -2,15 +2,15 @@ import I18nKeys from "./src/locales/keys";
 import type { Configuration } from "./src/types/config";
 
 const YukinaConfig: Configuration = {
-  title: "Yukina",
-  subTitle: "Yukina Template Demo Site",
-  brandTitle: "Yukina",
+  title: "Hako.ooo",
+  subTitle: "はこおおおおおおおおおおおお",
+  brandTitle: "Hako.ooo",
 
-  description: "Demo Site",
+  description: "はこのブログ",
 
-  site: "https://yukina-blog.vercel.app",
+  site: "https://hako.ooo",
 
-  locale: "en", // set for website language and date format
+  locale: "ja", // set for website language and date format
 
   navigators: [
     {
@@ -31,21 +31,21 @@ const YukinaConfig: Configuration = {
     },
   ],
 
-  username: "WhitePaper 白芷",
-  sign: "Ad Astra Per Aspera.",
-  avatarUrl: "https://s2.loli.net/2025/01/25/FPpTrQSezM8ivbl.webp",
+  username: "Hako",
+  sign: "ハロー！",
+  avatarUrl: "https://github.com/HakoMC.png",
   socialLinks: [
     {
       icon: "line-md:github-loop",
-      link: "https://github.com/WhitePaper233",
+      link: "https://github.com/HakoMC",
     },
     {
-      icon: "mingcute:bilibili-line",
-      link: "https://space.bilibili.com/22433608",
+      icon: "line-md:twitter",
+      link: "https://x.com/hako_eat_daiz",
     },
     {
-      icon: "mingcute:netease-music-line",
-      link: "https://music.163.com/#/user/home?id=125291648",
+      icon: "line-md:youtube",
+      link: "https://youtube.com/@2hako4you",
     },
   ],
   maxSidebarCategoryChip: 6, // It is recommended to set it to a common multiple of 2 and 3
