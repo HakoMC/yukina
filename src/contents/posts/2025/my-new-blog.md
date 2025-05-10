@@ -5,7 +5,7 @@ tags:
   - ブログ
 
 category: その他
-draft: true
+draft: false
 ---
 
 このたび、ドメインを「だいすき.みんな」から「hako.ooo」へ、ブログテンプレートを[ShokaX](https://github.com/theme-shoka-x/hexo-theme-shokaX)から[yukina](https://github.com/WhitePaper233/yukina)へ移行しました！
